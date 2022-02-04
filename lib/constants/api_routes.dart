@@ -1,0 +1,12 @@
+final String PORT = '9090';
+final String HOST = 'elcorresponsal.co/liq/public';
+final String BASE_URL = 'http://$HOST';
+final String USER = '/auth';
+final String USERS = '/api/users';
+final String LOGIN = '/authenticate';
+final String LIQUIDACION = '/liquidacion';
+final String LIQUIDACION_GETLIST = '/GetList';
+final String LINEAS_GETTIPOS = '/DataLineasForTipoTercero';
+final String LIQUIDACION_SAVE = '/GuardarLiquidacion';
+final String YES = 'yes';
+final String NO = 'no';
